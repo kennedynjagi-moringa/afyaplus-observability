@@ -1,0 +1,4 @@
+feature,gpt-4o,gpt-4o-mini,gpt-4o_premium_multiplier
+insurance_verification,0.001518,8.9e-05,17.1
+medication_calculation,0.001656,0.0001,16.6
+triage_routing,0.001524,8.8e-05,17.3

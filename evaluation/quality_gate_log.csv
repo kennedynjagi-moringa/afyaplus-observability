@@ -1,0 +1,7 @@
+model,feature,rouge_l,token_f1,correctness,groundedness,overall_alignment,rouge_l_pass,token_f1_pass,correctness_pass,groundedness_pass,overall_alignment_pass,overall_pass
+gpt-4o,insurance_verification,0.618,0.641,5.0,5.0,5.0,True,True,True,True,True,True
+gpt-4o,medication_calculation,0.436,0.484,5.0,5.0,5.0,True,True,True,True,True,True
+gpt-4o,triage_routing,0.395,0.478,5.0,5.0,5.0,True,True,True,True,True,True
+gpt-4o-mini,insurance_verification,0.543,0.605,5.0,5.0,5.0,True,True,True,True,True,True
+gpt-4o-mini,medication_calculation,0.505,0.521,5.0,5.0,5.0,True,True,True,True,True,True
+gpt-4o-mini,triage_routing,0.419,0.446,5.0,5.0,5.0,True,False,True,True,True,False

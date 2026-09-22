@@ -1,0 +1,6 @@
+group_type,group_value,requests,cost_usd
+model,gpt-4o,16103,24.92
+model,gpt-4o-mini,48293,4.38
+feature,insurance_verification,20768,9.27
+feature,medication_calculation,12213,5.98
+feature,triage_routing,31415,14.05

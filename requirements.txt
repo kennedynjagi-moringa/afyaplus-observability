@@ -1,0 +1,16 @@
+openai
+python-dotenv
+pandas
+numpy
+scikit-learn
+scipy
+fastapi
+uvicorn
+prometheus_client
+rouge-score
+sacrebleu
+evidently
+tiktoken
+fpdf2
+pytest
+httpx

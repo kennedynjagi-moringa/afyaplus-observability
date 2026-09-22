@@ -1,0 +1,7 @@
+model,feature,bleu,rouge_l,token_f1,correctness,groundedness,relevance,helpfulness,overall_alignment,latency_ms
+gpt-4o,insurance_verification,32.958,0.618,0.641,5.0,5.0,5.0,5.0,5.0,1434.9
+gpt-4o,medication_calculation,24.24,0.436,0.484,5.0,5.0,5.0,5.0,5.0,1483.16
+gpt-4o,triage_routing,20.554,0.395,0.478,5.0,5.0,5.0,5.0,5.0,1306.72
+gpt-4o-mini,insurance_verification,28.632,0.543,0.605,5.0,5.0,5.0,5.0,5.0,1529.8
+gpt-4o-mini,medication_calculation,26.33,0.505,0.521,5.0,5.0,5.0,5.0,5.0,1405.66
+gpt-4o-mini,triage_routing,15.646,0.419,0.446,5.0,5.0,5.0,5.0,5.0,3029.76

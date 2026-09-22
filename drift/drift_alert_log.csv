@@ -1,0 +1,7 @@
+month,column,method,p_value,threshold,drifted
+2,rouge_l,K-S p_value,0.034580084963334506,0.05,True
+2,latency_ms,K-S p_value,0.07088798787114439,0.05,False
+2,input_token_length,K-S p_value,5.795481973815609e-06,0.05,True
+3,rouge_l,K-S p_value,2.366488472641374e-05,0.05,True
+3,latency_ms,K-S p_value,8.737803591291227e-05,0.05,True
+3,input_token_length,K-S p_value,1.6911233892144742e-17,0.05,True
